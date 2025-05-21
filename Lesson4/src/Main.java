@@ -69,10 +69,10 @@ public class Main {
 //        double c = new Scanner(System.in).nextDouble();
 //        System.out.println("F" + "=" + (c * 1.8 + 32));
 
-//        System.out.println("\t ***Перевод рубля в валюту***");
-//        System.out.println("\tВведите кол-во рублей:");
-//        double r = new Scanner(System.in).nextDouble();
-//        System.out.println("\tD = " + (0.012 * r)+ "\tE =" + (0.011 * r));
+        System.out.println("\t ***Перевод рубля в валюту***");
+        System.out.println("\tВведите кол-во рублей:");
+        double r = new Scanner(System.in).nextDouble();
+        System.out.println("\tD = " + (0.012 * r)+ "\tE =" + (0.011 * r));
 
 
 
